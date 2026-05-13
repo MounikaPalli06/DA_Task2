@@ -1,0 +1,501 @@
+Order_ID,Customer_Name,Product,Category,Region,Quantity,Sales,Profit,Marketing_Spend,Payment_Method,Order_Date
+1,Richard Mason,Keyboard,Electronics,North,3,13203,2174.05,9929,Net Banking,2024-07-09
+2,Raymond Snyder,Mobile,Electronics,West,10,21382,2518.88,5559,Card,2024-11-16
+3,Michael Miller,Headphones,Electronics,West,7,39207,4262.64,5470,UPI,2024-04-11
+4,Lisa Wright,Chair,Furniture,East,5,12151,1148.65,9023,Net Banking,2024-12-30
+5,Stephanie Arellano,Keyboard,Electronics,West,9,31286,7819.63,1917,Cash,2024-07-16
+6,Kevin Brown,Mouse,Electronics,North,10,39999,8834.79,1377,UPI,2024-08-03
+7,Christian Clark,Tablet,Electronics,South,1,41261,7952.37,2805,UPI,2024-04-24
+8,Shawn Lee,Monitor,Electronics,West,4,3367,193.65,8358,Cash,2024-03-16
+9,David Bridges,Chair,Furniture,South,3,21014,4339.19,6092,Cash,2024-05-30
+10,Ana Pierce,Chair,Furniture,East,4,11981,1783.07,5212,Cash,2024-01-25
+11,Jessica Pierce,Printer,Office Supplies,West,3,9427,1503.38,3208,Cash,2024-03-21
+12,Stephanie Cannon,Desk,Furniture,North,4,9252,787.63,2338,Card,2024-11-01
+13,Denise Vasquez,Tablet,Electronics,South,5,28967,5404.48,5432,Net Banking,2024-06-09
+14,Alan Cook,Desk,Furniture,East,8,29632,3818.15,9743,UPI,2024-07-18
+15,Meghan Dunlap,Tablet,Electronics,North,10,26073,4142.68,7971,Net Banking,2024-10-06
+16,Ashley Flores,Chair,Furniture,North,4,31586,4800.12,4352,Card,2024-12-03
+17,Christopher Torres,Headphones,Electronics,South,9,36302,5508.48,9503,Card,2024-08-03
+18,Kristin Hale,Chair,Furniture,East,5,1148,252.1,2621,UPI,2024-08-20
+19,David Kemp,Monitor,Electronics,North,1,21828,3175.99,6587,Card,2024-06-09
+20,Erik Pace,Chair,Furniture,North,3,21868,2021.25,1083,Net Banking,2024-03-29
+21,Donna Allison,Chair,Furniture,West,2,25043,5482.73,6727,Card,2024-02-17
+22,Daniel Bullock,Laptop,Electronics,West,9,24443,2505.35,5121,Cash,2024-04-18
+23,Rebekah Welch,Tablet,Electronics,East,6,21406,1615.89,2379,Net Banking,2024-01-04
+24,Jessica Nelson,Desk,Furniture,West,4,28968,5214.48,9022,Net Banking,2024-05-02
+25,Traci Grant,Chair,Furniture,East,7,3945,951.62,1185,Cash,2024-09-22
+26,Cheryl Wolf,Laptop,Electronics,North,6,10925,907.35,3519,Card,2024-01-08
+27,Sherry Wilson,Mobile,Electronics,West,7,5268,654.43,9966,Net Banking,2024-04-15
+28,Hayley Jensen,Printer,Office Supplies,East,8,29048,1839.67,6196,Net Banking,2024-01-09
+29,Leonard Walker,Printer,Office Supplies,South,2,29388,4884.66,7920,UPI,2024-08-28
+30,Lisa Schwartz DVM,Mouse,Electronics,West,6,21764,5374.41,4987,Card,2024-06-09
+31,Tiffany Morris,Tablet,Electronics,North,3,820,140.15,4253,Cash,2024-01-28
+32,Jacqueline Perry,Chair,Furniture,East,6,36416,4083.48,156,Card,2024-05-23
+33,Ronnie Lin,Printer,Office Supplies,South,2,46653,7240.13,8853,Net Banking,2024-03-28
+34,Robert Brown,Laptop,Electronics,East,6,12125,1122.18,2640,Cash,2024-09-07
+35,Stephanie Myers,Printer,Office Supplies,West,7,41890,4488.77,7110,Card,2024-02-19
+36,Carrie Taylor,Laptop,Electronics,East,7,27281,4853.76,7961,UPI,2024-09-01
+37,Mary Wright,Headphones,Electronics,South,8,37688,5237.03,1820,Net Banking,2024-03-20
+38,Richard Thomas,Headphones,Electronics,North,4,32189,7121.59,9183,UPI,2024-10-11
+39,David Yang,Mobile,Electronics,North,10,17312,1171.63,2503,Cash,2024-01-19
+40,Larry Patel,Mouse,Electronics,North,8,28189,4168.74,7473,Card,2024-09-26
+41,Jeanne Carr,Headphones,Electronics,North,9,37667,2624.21,879,Cash,2024-02-11
+42,Kevin Richardson,Mobile,Electronics,East,6,35839,7288.23,7066,UPI,2024-01-26
+43,William Carpenter,Keyboard,Electronics,North,3,5997,742.63,8795,Net Banking,2024-06-21
+44,Melanie Stevenson,Mobile,Electronics,East,9,22855,4387.41,4726,Card,2024-04-22
+45,Andre Anderson,Monitor,Electronics,East,10,31644,2598.1,4739,Card,2024-01-17
+46,Elizabeth Banks,Mobile,Electronics,West,5,14524,1007.82,9293,Card,2024-06-15
+47,Casey Marshall,Monitor,Electronics,North,6,5318,703.91,3811,Cash,2024-08-24
+48,Sean Ryan,Keyboard,Electronics,West,8,13599,1653.02,6285,Cash,2024-09-22
+49,Megan Dillon,Chair,Furniture,North,5,23729,5752.1,174,UPI,2024-10-19
+50,Abigail Strong,Mouse,Electronics,North,1,27975,1409.21,5521,UPI,2024-04-07
+51,Steven Leonard,Monitor,Electronics,East,2,17763,4228.57,9171,Cash,2024-09-25
+52,Donald Taylor,Keyboard,Electronics,West,8,28071,4017.78,9840,UPI,2024-09-27
+53,Douglas Mcknight,Monitor,Electronics,South,1,21051,3570.13,9328,Cash,2024-07-06
+54,Tiffany Harrell,Keyboard,Electronics,South,7,12512,1251.58,5381,Card,2024-01-16
+55,Elizabeth Sanders,Laptop,Electronics,West,9,40608,6583.66,6772,Cash,2024-01-24
+56,Hannah Washington,Headphones,Electronics,North,8,6325,495.08,5187,UPI,2024-05-16
+57,David Harrison,Tablet,Electronics,West,9,33172,5805.4,2573,Card,2024-09-14
+58,Crystal Smith,Desk,Furniture,East,5,41238,7317.48,4857,Card,2024-03-04
+59,Dorothy Williams,Desk,Furniture,East,2,46384,5676.73,725,Card,2024-12-03
+60,Krista Long,Monitor,Electronics,North,10,16600,1883.83,7674,Cash,2024-03-15
+61,Sandra Davidson,Printer,Office Supplies,East,5,19166,3996.62,7470,Net Banking,2024-08-15
+62,Andrew Martin,Tablet,Electronics,North,1,43350,5603.9,7177,UPI,2024-12-31
+63,Lisa Daniels,Monitor,Electronics,East,3,27189,1569.45,8751,Card,2024-08-31
+64,Troy Stewart,Monitor,Electronics,East,6,40589,9515.46,2944,Card,2024-02-13
+65,Kimberly Welch,Chair,Furniture,South,6,1233,90.55,574,Card,2024-07-31
+66,Erin Wallace,Laptop,Electronics,South,5,9438,838.91,3507,Cash,2024-07-08
+67,Christopher Jefferson,Mouse,Electronics,West,6,36582,3579.56,4765,Net Banking,2024-09-08
+68,David Aguilar,Keyboard,Electronics,East,6,40925,7268.22,3166,Card,2024-04-14
+69,Manuel Wright,Desk,Furniture,South,2,23319,2520.35,7915,Net Banking,2024-01-23
+70,Brian Hines,Laptop,Electronics,East,9,31835,4275.11,3438,Cash,2024-01-28
+71,Thomas Santos,Mouse,Electronics,West,2,10670,2642.99,2731,Card,2024-10-27
+72,Melissa Bates,Desk,Furniture,North,5,18822,1500.58,8879,UPI,2024-03-27
+73,Adam Rice,Monitor,Electronics,East,10,10744,1609.61,7010,UPI,2024-06-07
+74,Nina Rowe,Mobile,Electronics,East,8,18704,2873.02,2633,Cash,2024-06-25
+75,Kathryn Guzman,Headphones,Electronics,East,4,12635,1403.8,7497,UPI,2024-07-05
+76,Travis Patterson,Chair,Furniture,West,9,44919,11148.71,1061,Cash,2024-09-12
+77,Connie Rich,Mobile,Electronics,East,4,28856,3890.85,3176,Cash,2024-01-03
+78,Julie Molina,Tablet,Electronics,North,2,24894,5656.97,6270,Net Banking,2024-04-20
+79,Patricia Villa,Laptop,Electronics,South,4,47892,7441.45,5971,UPI,2024-09-08
+80,John Howell,Tablet,Electronics,North,3,37533,5046.54,5765,Net Banking,2024-01-07
+81,Steve Werner,Laptop,Electronics,North,10,38089,7730.44,4742,Card,2024-02-02
+82,Joshua Pena,Desk,Furniture,North,9,21011,1920.6,4790,Card,2024-09-17
+83,Richard Guzman,Mouse,Electronics,South,6,10108,2036.35,4834,Card,2024-03-26
+84,Sabrina Potts,Monitor,Electronics,North,4,23783,1557.54,8443,Card,2024-05-07
+85,Alyssa Ross,Desk,Furniture,West,1,32917,3506.12,4889,Cash,2024-02-09
+86,Michael Estes,Chair,Furniture,South,9,14001,2812.55,9165,UPI,2024-06-13
+87,Jacqueline Kennedy,Desk,Furniture,West,1,33785,2055.43,2084,Net Banking,2024-10-20
+88,Michelle Morgan,Tablet,Electronics,North,5,6278,1104.78,3370,Net Banking,2024-08-11
+89,Miss Sarah Hunter,Keyboard,Electronics,East,4,41494,6952.66,6232,Net Banking,2024-02-15
+90,Manuel Johnson,Mouse,Electronics,West,4,36202,7758.38,5446,UPI,2024-01-17
+91,Kristen Fuller,Mobile,Electronics,West,1,37555,6683.67,3545,Net Banking,2024-07-21
+92,Patricia Adams,Mobile,Electronics,West,3,3765,803.65,2856,Card,2024-08-27
+93,Andrew Saunders,Headphones,Electronics,West,1,24237,4562.62,6889,Card,2024-02-28
+94,Cody Green,Headphones,Electronics,North,1,8606,938.79,2929,Cash,2024-09-21
+95,Steven Perez MD,Mouse,Electronics,North,3,3309,648.24,5282,Cash,2024-04-22
+96,Frank Contreras,Printer,Office Supplies,South,1,9198,1138.66,4478,Net Banking,2024-01-28
+97,Randy Simmons,Headphones,Electronics,East,7,39905,2225.65,2875,UPI,2024-12-01
+98,Lisa Harrell DVM,Mouse,Electronics,East,3,19369,2936.45,7526,Card,2024-05-12
+99,Morgan Sharp,Mouse,Electronics,West,5,17283,3188.18,7969,Cash,2024-03-29
+100,Miss Melissa Baldwin,Laptop,Electronics,North,10,19954,4173.05,9936,Card,2024-03-31
+101,Kimberly Mccullough,Keyboard,Electronics,West,4,6309,884.91,1678,Cash,2024-10-12
+102,Valerie Collins,Mouse,Electronics,North,8,43797,2970.4,534,Net Banking,2024-08-31
+103,Richard Harper,Chair,Furniture,South,3,33682,4436.29,4058,Card,2024-03-09
+104,Mark Allen,Printer,Office Supplies,West,6,25088,2629.38,9158,UPI,2024-06-27
+105,Donald Dean,Laptop,Electronics,West,1,22839,5235.2,6268,Net Banking,2024-08-05
+106,Keith Franklin,Desk,Furniture,South,9,4122,479.05,9530,Net Banking,2024-08-06
+107,Michael Smith,Monitor,Electronics,West,2,48622,9502.95,1948,Card,2024-10-23
+108,Kyle Young,Tablet,Electronics,East,5,18607,1760.24,483,Net Banking,2024-09-18
+109,Danny Macdonald,Mouse,Electronics,East,7,33472,4873.55,4709,Net Banking,2024-09-06
+110,David Phillips,Desk,Furniture,West,1,38404,7411.09,3651,Net Banking,2024-01-27
+111,Robin Willis,Laptop,Electronics,West,1,22000,3781.09,6689,Cash,2024-03-07
+112,Kristen Le,Chair,Furniture,South,10,28730,4581.85,379,Cash,2024-05-07
+113,Mary Jackson,Monitor,Electronics,West,2,10786,1409.99,1254,Cash,2024-10-05
+114,Anthony Kim,Headphones,Electronics,East,7,11822,2832.93,4192,Cash,2024-11-09
+115,Michelle Mullins,Tablet,Electronics,North,9,42176,10387.1,4953,Net Banking,2024-05-30
+116,Charles Smith,Headphones,Electronics,North,7,36675,6503.06,8099,Card,2024-08-20
+117,Andrew Cruz,Mouse,Electronics,West,4,25548,4767.4,5636,Net Banking,2024-11-04
+118,Caroline Gray,Desk,Furniture,North,7,43480,7919.02,1643,UPI,2024-09-23
+119,Erik Garrison,Mouse,Electronics,West,8,43215,8327.36,488,Net Banking,2024-02-01
+120,Thomas Taylor,Laptop,Electronics,North,3,43833,8302.44,1692,Cash,2024-06-08
+121,Jerry Moss,Monitor,Electronics,West,9,40343,5650.21,8300,Card,2024-06-08
+122,Katrina Rowland,Mouse,Electronics,South,7,45292,6513.26,203,UPI,2024-03-17
+123,Erin Dougherty,Mouse,Electronics,South,9,18289,1184.66,7887,Cash,2024-04-06
+124,Briana Deleon,Chair,Furniture,South,5,11086,1833.24,1730,UPI,2024-04-06
+125,Daniel Farmer,Keyboard,Electronics,South,1,37117,4763.29,7550,Card,2024-03-14
+126,Lauren Hill,Printer,Office Supplies,East,2,9572,552.65,4363,Cash,2024-08-27
+127,Kimberly Valencia,Headphones,Electronics,East,3,16106,1690.43,8964,Net Banking,2024-05-02
+128,Billy Rogers DDS,Tablet,Electronics,North,8,4399,230.95,9754,UPI,2024-11-19
+129,Melanie Lewis,Monitor,Electronics,West,10,25686,1461.83,8425,Net Banking,2024-05-15
+130,Noah Padilla,Keyboard,Electronics,West,8,36995,8508.01,6003,Cash,2024-03-15
+131,Thomas Kennedy,Chair,Furniture,South,3,10631,2303.65,3771,Net Banking,2024-10-11
+132,James Newton,Laptop,Electronics,North,6,37970,2381.11,7473,Cash,2024-05-12
+133,Brittany Carlson,Laptop,Electronics,East,5,45459,9239.65,6077,Card,2024-02-03
+134,Gina Williams,Mobile,Electronics,West,5,24190,5448.68,4668,UPI,2024-06-30
+135,Kathryn Patton,Tablet,Electronics,East,6,39246,7484.67,1663,Cash,2024-08-04
+136,Jonathan Kim,Monitor,Electronics,West,9,37022,2976.01,7548,UPI,2024-10-24
+137,Nicole Murray,Headphones,Electronics,East,10,42456,9550.98,7394,Net Banking,2024-09-20
+138,Jeffery Diaz,Laptop,Electronics,South,6,17033,3141.32,1000,Net Banking,2024-03-25
+139,Angel Levine,Keyboard,Electronics,West,3,5622,1078.49,7271,Cash,2024-12-19
+140,Mark Lopez MD,Mouse,Electronics,North,3,43991,7526.85,8315,UPI,2024-12-10
+141,Erik Perez,Mobile,Electronics,North,2,14987,3291.31,9142,UPI,2024-01-04
+142,Alexander Frank,Desk,Furniture,North,3,30150,3333.63,8026,UPI,2024-10-24
+143,Rebecca Hernandez,Monitor,Electronics,West,6,31611,3931.3,7712,Card,2024-09-17
+144,Patrick Duffy,Printer,Office Supplies,South,4,33127,5838.9,5663,Cash,2024-11-28
+145,Robert Mills,Tablet,Electronics,South,2,18019,3155.36,6301,Net Banking,2024-02-28
+146,James Williams PhD,Printer,Office Supplies,North,8,37643,5452.77,531,UPI,2024-02-11
+147,Ashlee Malone,Keyboard,Electronics,West,6,28129,5375.97,362,UPI,2024-09-13
+148,Roger Harris,Headphones,Electronics,East,2,36287,8223.05,1499,Net Banking,2024-02-15
+149,Tony Pierce,Laptop,Electronics,North,9,42298,10232.08,5060,Cash,2024-02-17
+150,John Martinez,Mobile,Electronics,South,5,44713,2381.82,8918,Cash,2024-08-16
+151,Megan Patterson,Desk,Furniture,North,8,28135,4945.52,2811,UPI,2024-12-21
+152,Bradley Mckenzie,Mouse,Electronics,West,2,18564,2704.08,4619,UPI,2024-06-30
+153,Daniel Spencer,Laptop,Electronics,North,10,21752,2682.61,3662,UPI,2024-04-14
+154,William Esparza,Keyboard,Electronics,West,3,12750,2252.79,9902,Card,2024-09-18
+155,Michael Carr,Printer,Office Supplies,North,1,42032,2858.7,5955,Cash,2024-08-14
+156,Danielle Simon,Headphones,Electronics,West,2,5796,1095.36,4215,Card,2024-06-28
+157,Casey Patrick,Monitor,Electronics,North,2,9029,1514.26,7596,Card,2024-01-03
+158,Nicholas Lewis,Tablet,Electronics,East,2,46597,6913.56,7216,Net Banking,2024-02-12
+159,Robert Orozco,Mouse,Electronics,East,9,41247,9576.86,4432,UPI,2024-04-11
+160,Alec Taylor,Laptop,Electronics,South,6,29238,3239.11,3326,UPI,2024-05-07
+161,Amy Hancock,Tablet,Electronics,North,4,3585,455.57,3776,UPI,2024-03-31
+162,Brandon Morrow,Laptop,Electronics,North,7,13105,2690.13,2573,UPI,2024-06-12
+163,Kathryn Lee,Keyboard,Electronics,North,6,1015,246.24,4423,Net Banking,2024-03-06
+164,Maria Moss,Headphones,Electronics,West,5,3716,344.06,8080,Cash,2024-08-27
+165,Jacqueline Morgan,Mobile,Electronics,North,10,48206,8369.52,6149,UPI,2024-10-25
+166,Christina Lowe,Chair,Furniture,East,8,13725,1005.71,4025,Net Banking,2024-03-04
+167,Jacob Bean,Mobile,Electronics,West,10,26605,6352.67,5681,Cash,2024-05-02
+168,Karen Moon,Keyboard,Electronics,West,10,49050,7762.76,7649,Card,2024-06-28
+169,Beth Whitehead,Printer,Office Supplies,West,9,40733,6537.38,4748,Cash,2024-01-15
+170,Tiffany Reynolds,Headphones,Electronics,South,5,16577,3086.43,5574,Card,2024-03-03
+171,Franklin Joseph,Printer,Office Supplies,East,7,37328,5597.13,6082,Net Banking,2024-11-20
+172,Kathleen Melendez,Keyboard,Electronics,East,1,36088,1813.35,3022,Card,2024-07-02
+173,Kelly Rodriguez,Keyboard,Electronics,West,1,47222,3000.84,4870,UPI,2024-05-31
+174,Sandra Lynn,Printer,Office Supplies,West,4,30264,6250.24,8514,Card,2024-12-29
+175,Jesse Kelly,Printer,Office Supplies,North,5,5309,1119.1,3827,Cash,2024-10-13
+176,Richard Norris,Printer,Office Supplies,North,1,46789,6916.23,3345,Card,2024-11-17
+177,Alicia Ross,Mobile,Electronics,South,8,7072,1240.86,2663,Cash,2024-07-20
+178,Nicholas Davis,Laptop,Electronics,East,9,7837,1748.77,3536,UPI,2024-11-02
+179,Melissa Johnston,Tablet,Electronics,South,6,1901,338.12,3334,Net Banking,2024-09-27
+180,Robert Villanueva,Keyboard,Electronics,South,7,4649,406.13,7813,Card,2024-11-28
+181,David Carr,Chair,Furniture,South,1,33590,8231.54,2220,Cash,2024-01-07
+182,Monica Rivera,Headphones,Electronics,North,5,34627,5859.71,9048,UPI,2024-06-22
+183,Dr. Justin Cohen,Headphones,Electronics,East,7,30326,4735.55,2218,Card,2024-07-10
+184,Gregory Johnson,Printer,Office Supplies,South,4,3694,235.33,3521,UPI,2024-05-25
+185,William Arroyo,Desk,Furniture,West,6,20158,3922.7,6167,Cash,2024-09-25
+186,Denise Young,Mouse,Electronics,South,7,29766,6464.38,1677,UPI,2024-04-02
+187,Amy Maldonado,Desk,Furniture,West,1,19976,2519.54,4161,Cash,2024-05-31
+188,Sarah Day,Tablet,Electronics,West,9,26442,2556.66,617,UPI,2024-01-01
+189,Suzanne Price,Chair,Furniture,South,9,17477,1016.04,9531,Card,2024-04-17
+190,Lisa Rodriguez,Monitor,Electronics,South,3,32717,6344.39,7510,Net Banking,2024-10-20
+191,Gabrielle Smith,Monitor,Electronics,East,1,40026,7179.66,9666,UPI,2024-05-15
+192,Tracey Gonzalez,Monitor,Electronics,North,10,39851,5738.51,3327,Card,2024-07-11
+193,Michelle Morales,Chair,Furniture,South,10,31547,6874.82,1639,UPI,2024-01-14
+194,Kaitlyn Combs,Laptop,Electronics,East,3,49002,8117.42,5681,Card,2024-09-15
+195,Sarah Baker,Tablet,Electronics,North,7,48275,4367.11,7599,Cash,2024-09-06
+196,Heidi Morgan,Desk,Furniture,North,10,20281,4468.24,535,Net Banking,2024-08-15
+197,Joseph Lambert,Tablet,Electronics,East,9,35652,3618.95,2654,UPI,2024-02-02
+198,Andrew Oliver,Monitor,Electronics,East,3,38781,6713.59,9799,UPI,2024-04-29
+199,Catherine West,Desk,Furniture,South,7,42599,4530.08,1843,Cash,2024-12-20
+200,Mark Foster,Printer,Office Supplies,South,6,3545,474.12,7420,UPI,2024-01-07
+201,Michael Murillo,Keyboard,Electronics,West,7,4276,364.11,3900,Net Banking,2024-10-03
+202,Steven Stevenson,Monitor,Electronics,South,2,44137,4749.2,2855,Card,2024-11-17
+203,Brianna Walker,Headphones,Electronics,North,3,49495,3273.05,5434,Card,2024-06-02
+204,Thomas Green,Chair,Furniture,West,4,9271,1460.62,8562,UPI,2024-11-09
+205,Amber Weaver,Monitor,Electronics,East,3,39394,8236.95,2689,UPI,2024-08-15
+206,Christopher Murphy,Keyboard,Electronics,East,9,10396,1726.61,4454,UPI,2024-03-07
+207,James Aguilar,Tablet,Electronics,West,9,5254,944.23,4660,Cash,2024-12-03
+208,Colin Wilson,Laptop,Electronics,South,4,47712,7123.19,5868,Card,2024-06-21
+209,Daniel Freeman,Printer,Office Supplies,West,4,30622,2288.31,4789,Net Banking,2024-05-24
+210,Kimberly Hatfield,Mouse,Electronics,West,1,21284,3267.27,4176,Card,2024-01-05
+211,Connor Rhodes,Headphones,Electronics,South,1,17414,2251.5,1724,Net Banking,2024-10-12
+212,Michelle Smith,Chair,Furniture,North,1,32381,2280.62,8813,UPI,2024-03-30
+213,Nicholas Allison,Headphones,Electronics,West,10,42732,9247.33,3494,Card,2024-05-31
+214,Jennifer Hughes,Desk,Furniture,West,8,15589,3841.51,1879,Net Banking,2024-10-17
+215,Donna Collins,Monitor,Electronics,North,7,27614,5254.21,5082,Cash,2024-07-08
+216,Scott Bailey,Mouse,Electronics,West,7,25897,5415.6,1903,Net Banking,2024-01-06
+217,Susan Rodgers,Monitor,Electronics,East,5,41350,6286.65,3763,Cash,2024-10-14
+218,James Rodriguez,Tablet,Electronics,West,7,31713,7253.36,2840,Net Banking,2024-02-17
+219,Taylor Chambers,Mouse,Electronics,South,3,13874,1938.6,988,Cash,2024-02-17
+220,Brian Perez,Chair,Furniture,North,7,13465,2470.81,8635,Card,2024-09-15
+221,Christopher Hopkins,Chair,Furniture,East,2,19628,2360.83,2644,Card,2024-01-17
+222,Christina Noble,Chair,Furniture,East,5,706,37.9,8161,Net Banking,2024-12-11
+223,Susan Lowe,Keyboard,Electronics,South,7,12773,2257.4,7353,UPI,2024-12-07
+224,Kenneth Heath,Tablet,Electronics,East,5,47583,10974.86,4811,Cash,2024-04-21
+225,Cindy Buchanan,Mobile,Electronics,South,8,21867,2623.71,6940,Net Banking,2024-04-08
+226,Amanda Wilson,Printer,Office Supplies,East,4,28480,4272.62,6002,Cash,2024-01-20
+227,Zachary Webb,Headphones,Electronics,South,2,22469,3553.47,4985,UPI,2024-01-05
+228,Hannah Esparza,Keyboard,Electronics,North,8,44291,6047.72,5347,Net Banking,2024-06-21
+229,Courtney Miller,Printer,Office Supplies,West,3,45475,3859.1,3190,Cash,2024-01-09
+230,Andrea Duncan,Desk,Furniture,West,9,6393,1136.26,1624,Card,2024-05-10
+231,David Ingram,Keyboard,Electronics,South,5,10689,888.73,5125,Cash,2024-09-04
+232,Dorothy Cooper,Monitor,Electronics,South,6,46134,11354.37,5203,UPI,2024-03-17
+233,Eileen Livingston,Chair,Furniture,West,7,5178,884.52,2559,Net Banking,2024-06-26
+234,Megan Wright,Keyboard,Electronics,North,5,24057,5897.62,598,UPI,2024-10-08
+235,Ryan Larsen,Tablet,Electronics,East,8,43489,3571.53,8342,Card,2024-02-02
+236,Douglas Wu,Desk,Furniture,South,2,30714,2481.96,8852,Cash,2024-10-09
+237,Thomas Cooper,Headphones,Electronics,South,4,23962,2924.95,3693,Card,2024-06-21
+238,Daniel Schmidt,Mobile,Electronics,North,3,15048,1682.18,6756,Net Banking,2024-01-05
+239,Theresa Nguyen,Mobile,Electronics,East,4,46980,4830.02,3467,Net Banking,2024-11-13
+240,Colleen Mcknight,Laptop,Electronics,South,8,3452,193.82,9458,Cash,2024-03-12
+241,John Mcmahon,Mobile,Electronics,East,1,23643,4649.79,6828,Net Banking,2024-09-24
+242,Terri Woods,Headphones,Electronics,East,3,5192,569.44,8007,Card,2024-10-14
+243,Michele Long,Mobile,Electronics,West,7,15343,2917.52,6858,Cash,2024-11-03
+244,Jamie James,Laptop,Electronics,East,7,5232,984.2,1786,Card,2024-09-30
+245,Zachary Pena,Desk,Furniture,East,4,12143,1634.43,3763,Net Banking,2024-09-16
+246,Jesse Hamilton,Laptop,Electronics,North,2,36679,4010.98,6467,UPI,2024-11-21
+247,Sonia Lester,Mobile,Electronics,East,4,31632,4921.24,2726,Cash,2024-02-01
+248,David Hernandez DDS,Laptop,Electronics,East,9,5289,1007.95,410,Net Banking,2024-06-08
+249,Benjamin Reed,Mouse,Electronics,North,10,49761,7292.98,5946,Net Banking,2024-07-05
+250,Heather Peterson,Mouse,Electronics,East,10,3139,713.97,3373,UPI,2024-07-26
+251,Kenneth Jones,Printer,Office Supplies,South,4,31264,5548.48,4973,Cash,2024-11-26
+252,Dana Coleman,Laptop,Electronics,South,7,49222,11568.95,2421,Cash,2024-01-18
+253,Brent Hall,Printer,Office Supplies,West,4,20558,2500.84,8880,UPI,2024-07-22
+254,Patricia Boyd,Tablet,Electronics,North,1,20392,4552.12,3896,Cash,2024-06-11
+255,Jaime Smith,Chair,Furniture,West,2,2387,251.37,9253,Card,2024-01-17
+256,Courtney Olson,Monitor,Electronics,West,7,1933,140.92,8596,Card,2024-04-05
+257,Mark Jenkins,Mouse,Electronics,West,6,40137,2871.61,7663,Cash,2024-08-27
+258,Anthony Lowe,Keyboard,Electronics,East,10,42554,6326.02,4014,Card,2024-12-26
+259,Shannon Murphy,Chair,Furniture,East,1,11105,2145.39,6918,Net Banking,2024-07-09
+260,Mark Ferguson,Tablet,Electronics,East,5,19766,2381.92,9944,Cash,2024-09-17
+261,Rachel Mckinney,Chair,Furniture,South,1,25694,2453.91,4249,UPI,2024-11-08
+262,Jeffrey Mills,Monitor,Electronics,North,9,526,107.61,9873,Cash,2024-05-18
+263,Christina Compton,Monitor,Electronics,North,6,26997,4294.98,6877,Cash,2024-09-07
+264,Lisa Sullivan,Keyboard,Electronics,South,4,8488,743.99,2071,Cash,2024-08-14
+265,Steven Morse,Desk,Furniture,North,8,10136,1108.41,6530,Cash,2024-05-27
+266,Jasmine Hammond,Monitor,Electronics,North,5,785,176.76,271,Cash,2024-11-04
+267,Lee Bailey,Mobile,Electronics,North,7,37495,8646.06,2287,Net Banking,2024-07-21
+268,David Richardson,Monitor,Electronics,North,4,11033,1585.6,7121,Net Banking,2024-04-22
+269,Jennifer Case,Headphones,Electronics,East,10,40185,6230.75,4301,Net Banking,2024-03-30
+270,Shannon Lopez,Tablet,Electronics,East,9,14549,1315.01,9611,Card,2024-01-10
+271,Matthew Cooley,Tablet,Electronics,West,8,17084,1217.77,7448,Card,2024-12-28
+272,Michele Cox,Monitor,Electronics,North,3,45264,4995.05,3562,Card,2024-05-01
+273,Jeffrey Porter,Headphones,Electronics,South,8,15274,3741.17,6504,Card,2024-01-08
+274,Mr. Adam Conway,Chair,Furniture,South,1,41109,6021.73,2779,UPI,2024-04-19
+275,Aaron Baker,Mobile,Electronics,West,6,32354,6961.49,1904,UPI,2024-02-26
+276,Sandra Diaz,Tablet,Electronics,East,6,1479,338.15,6770,Card,2024-06-12
+277,Richard Collins,Desk,Furniture,West,9,46474,6372.33,3308,Cash,2024-04-06
+278,Gary Crawford,Desk,Furniture,North,10,17201,2057.25,9965,Net Banking,2024-06-15
+279,Adam Singleton,Chair,Furniture,West,9,22151,1131.31,7851,Net Banking,2024-03-31
+280,Oscar Short,Printer,Office Supplies,South,3,16853,2135.9,3982,UPI,2024-02-15
+281,Gregory Tate,Chair,Furniture,West,2,2655,310.58,726,UPI,2024-09-15
+282,Emily Marshall,Tablet,Electronics,East,5,13716,2692.24,4247,Cash,2024-07-26
+283,Philip Allen,Chair,Furniture,East,8,7411,1651.26,3564,UPI,2024-12-24
+284,Amanda Vance,Desk,Furniture,North,3,13944,1824.78,4844,Cash,2024-02-13
+285,Laura Wallace,Laptop,Electronics,South,8,12473,631.08,449,Card,2024-07-23
+286,Todd Watts,Tablet,Electronics,East,2,32286,4531.34,8052,Cash,2024-11-29
+287,Tammy Ross,Mobile,Electronics,West,4,11743,735.08,6257,Cash,2024-12-08
+288,Joseph Rodriguez,Chair,Furniture,North,9,20262,2589.51,7470,Cash,2024-12-15
+289,Jessica Murphy,Keyboard,Electronics,East,3,49859,9252.3,1180,UPI,2024-07-25
+290,Daniel Garrett,Keyboard,Electronics,South,8,21643,1157.22,5488,Net Banking,2024-06-23
+291,David Nguyen,Tablet,Electronics,East,8,30144,4137.19,3246,Card,2024-04-25
+292,Kevin Shea,Printer,Office Supplies,North,1,13157,855.29,2180,UPI,2024-09-08
+293,Rachel Arellano,Monitor,Electronics,South,7,12945,2882.4,433,Net Banking,2024-12-10
+294,Jorge Mccormick,Monitor,Electronics,East,3,4392,774.88,3622,UPI,2024-03-18
+295,Christopher Jackson,Laptop,Electronics,West,4,14023,3340.21,2400,Net Banking,2024-05-08
+296,Stephen Russell,Printer,Office Supplies,West,4,47754,9656.35,6403,Cash,2024-02-03
+297,Jennifer Coleman,Monitor,Electronics,South,5,8158,728.79,3176,Card,2024-07-01
+298,Jeffrey Howard,Headphones,Electronics,South,2,4116,435.58,6818,UPI,2024-01-13
+299,Stephanie Adams,Laptop,Electronics,South,3,28400,1763.75,2300,UPI,2024-06-08
+300,Kelly Smith,Mobile,Electronics,West,7,25258,3572.01,7958,Cash,2024-09-05
+301,Melanie Cox,Printer,Office Supplies,East,6,16717,2139.91,4992,Net Banking,2024-02-20
+302,Lisa Gregory,Chair,Furniture,North,7,23073,3587.19,482,UPI,2024-06-28
+303,Jennifer Reyes,Laptop,Electronics,South,2,19389,2612.06,3048,Net Banking,2024-04-29
+304,Eric Goodwin,Chair,Furniture,West,3,8438,1626.97,6074,UPI,2024-10-03
+305,Cody Lewis,Chair,Furniture,South,9,15203,2478.85,7388,Cash,2024-06-25
+306,Charles Ruiz,Mobile,Electronics,West,8,16152,1215.01,1945,Net Banking,2024-08-20
+307,Terry King,Desk,Furniture,North,4,48002,4129.23,7200,Cash,2024-11-11
+308,Jesse Marquez,Monitor,Electronics,East,7,31757,5481.57,3668,Card,2024-05-01
+309,Karen Freeman,Printer,Office Supplies,East,2,31358,1925.72,9631,Cash,2024-08-23
+310,Amanda Peterson,Mobile,Electronics,West,7,37860,6927.8,6844,Card,2024-04-23
+311,Kristin Lopez,Monitor,Electronics,West,1,26466,4937.25,8964,UPI,2024-01-25
+312,Sandra Alvarez,Keyboard,Electronics,East,1,44595,10234.84,8769,Card,2024-05-14
+313,Laura Humphrey,Mobile,Electronics,South,3,24387,4146.1,1905,Card,2024-03-27
+314,Michael Ballard,Keyboard,Electronics,West,4,20017,1167.52,2931,Net Banking,2024-08-18
+315,Miguel Wolfe,Mobile,Electronics,North,1,2934,299.13,2192,Card,2024-06-17
+316,Susan Kennedy,Tablet,Electronics,South,8,15463,2290.07,2187,UPI,2024-01-02
+317,Richard Reyes,Printer,Office Supplies,West,7,38972,4810.82,2961,UPI,2024-10-14
+318,Tracy Avery,Keyboard,Electronics,West,1,26239,3136.65,3470,UPI,2024-10-08
+319,Cody Pineda,Laptop,Electronics,South,4,22603,3268.91,2462,Net Banking,2024-06-10
+320,Jennifer Strickland,Chair,Furniture,West,8,33544,3212.14,6035,Cash,2024-08-06
+321,Ryan Wang,Headphones,Electronics,West,4,47461,9206.85,9584,UPI,2024-04-16
+322,Sean Huynh,Tablet,Electronics,West,5,26305,4272.79,300,UPI,2024-03-04
+323,Ashley Lucero,Headphones,Electronics,East,5,966,224.62,3092,UPI,2024-11-26
+324,David Jimenez,Laptop,Electronics,West,5,30705,2473.68,690,UPI,2024-02-06
+325,Kimberly Schneider,Laptop,Electronics,South,10,20034,1678.14,9961,Card,2024-12-06
+326,Steven Miles,Monitor,Electronics,North,5,7707,1169.7,2084,Net Banking,2024-12-16
+327,Jason Chapman,Tablet,Electronics,East,4,49883,7247.98,8037,Net Banking,2024-01-02
+328,Allison Gomez,Printer,Office Supplies,South,2,698,43.6,4246,Card,2024-06-19
+329,Benjamin Odonnell,Tablet,Electronics,South,6,25592,1661.03,9077,Cash,2024-08-04
+330,Rhonda Smith,Printer,Office Supplies,East,8,22398,3646.72,5433,UPI,2024-05-20
+331,James Thompson,Tablet,Electronics,North,4,737,118.47,8703,Card,2024-05-10
+332,Nichole Curtis,Chair,Furniture,East,5,8454,742.43,6319,Net Banking,2024-11-17
+333,William Rodriguez,Keyboard,Electronics,East,8,4516,778.18,2821,Cash,2024-02-25
+334,Kyle Robinson,Mobile,Electronics,West,9,18747,2745.56,5902,Net Banking,2024-05-06
+335,Debra Dean,Chair,Furniture,East,2,3263,217.32,4225,Net Banking,2024-09-08
+336,Aaron Young,Chair,Furniture,West,4,12146,1522.42,421,UPI,2024-08-09
+337,Robert Harris,Printer,Office Supplies,East,4,27003,6415.15,5290,UPI,2024-03-12
+338,Russell Figueroa,Printer,Office Supplies,East,9,7268,1652.5,3635,UPI,2024-04-22
+339,Yesenia Newman,Tablet,Electronics,West,3,13816,1751.56,5718,Cash,2024-05-23
+340,Jeffery Buchanan,Printer,Office Supplies,South,3,36257,1933.89,7166,Net Banking,2024-09-05
+341,Jose Houston,Desk,Furniture,East,8,34363,6202.37,4167,Card,2024-11-20
+342,Jeffrey Barnes,Printer,Office Supplies,North,8,43495,7379.84,8861,UPI,2024-05-20
+343,Katherine Poole DVM,Monitor,Electronics,South,10,9385,1365.46,3154,UPI,2024-07-13
+344,Gary Elliott,Tablet,Electronics,South,9,30369,7307.14,218,Cash,2024-04-04
+345,Kevin Taylor,Tablet,Electronics,South,6,49301,9830.81,4763,Cash,2024-04-06
+346,Paula Roy,Keyboard,Electronics,South,9,23914,2951.92,7522,Card,2024-12-28
+347,Nathan Page,Chair,Furniture,West,6,24794,6015.76,250,Net Banking,2024-09-26
+348,Vincent Warner,Tablet,Electronics,East,9,13869,1881.77,4826,Net Banking,2024-01-10
+349,Cory James,Desk,Furniture,West,7,14403,2929.84,8875,UPI,2024-03-12
+350,Eric Wilson,Laptop,Electronics,North,3,37972,2590.4,7574,Card,2024-11-09
+351,Shannon Black,Mobile,Electronics,West,4,7794,903.35,9547,Card,2024-07-12
+352,Robyn Davis,Laptop,Electronics,West,10,16410,3540.19,7831,Cash,2024-06-18
+353,Sarah Smith,Mouse,Electronics,West,1,29421,7101.99,8010,Net Banking,2024-02-02
+354,Ryan Mcclain,Chair,Furniture,North,1,22679,1794.47,1425,Cash,2024-10-29
+355,Seth Martin,Laptop,Electronics,South,7,6285,1109.76,849,UPI,2024-10-13
+356,Gabriel Larsen,Desk,Furniture,West,7,41176,2405.93,6959,Card,2024-05-03
+357,Yolanda Davis,Keyboard,Electronics,West,8,45172,6304.35,5034,Net Banking,2024-06-02
+358,Ashley Gilbert,Printer,Office Supplies,West,9,8464,456.24,4647,Cash,2024-03-04
+359,Katherine Hanna,Monitor,Electronics,West,5,22666,5230.95,1255,Cash,2024-12-07
+360,Jennifer Everett,Monitor,Electronics,East,3,14638,2907.74,2833,Net Banking,2024-01-04
+361,Julie Gonzales,Mobile,Electronics,East,6,24867,2719.09,435,Net Banking,2024-04-15
+362,Aaron Chavez,Tablet,Electronics,South,7,13965,2663.55,4725,Net Banking,2024-04-09
+363,Casey Ramsey,Mouse,Electronics,South,6,23658,1326.73,9373,UPI,2024-07-17
+364,Megan Benitez,Chair,Furniture,South,1,6029,498.76,7769,UPI,2024-03-13
+365,Heidi Grant,Monitor,Electronics,North,4,36668,8834.61,3511,Card,2024-07-07
+366,Mark Harris,Laptop,Electronics,South,2,14985,928.31,7928,UPI,2024-07-08
+367,Kelly Williams,Printer,Office Supplies,South,5,3077,293.54,8270,Card,2024-05-15
+368,Ryan Mendoza,Monitor,Electronics,East,4,19706,1830.02,6396,Card,2024-01-23
+369,Calvin Sullivan,Monitor,Electronics,North,7,12233,1129.68,7611,Cash,2024-02-13
+370,Kelly Mcdaniel,Printer,Office Supplies,West,8,13828,2635.24,6098,UPI,2024-10-08
+371,Jennifer Dominguez,Mouse,Electronics,North,5,17359,3596.37,7211,UPI,2024-06-20
+372,Kenneth Mills,Headphones,Electronics,East,10,943,190.89,6143,Net Banking,2024-05-11
+373,Daniel Harrison,Mouse,Electronics,West,8,32377,4261.75,7785,UPI,2024-07-10
+374,Jerome Stewart,Tablet,Electronics,South,6,6994,1283.46,4834,UPI,2024-08-20
+375,Luis Quinn,Headphones,Electronics,North,8,27426,3036.28,2395,Net Banking,2024-10-06
+376,Hector Michael,Tablet,Electronics,East,6,39443,6342.54,3101,UPI,2024-06-29
+377,Michael Miller,Laptop,Electronics,South,1,33681,5558.61,1680,Card,2024-01-13
+378,Stephanie Mitchell,Desk,Furniture,East,3,48371,4339.44,8182,Net Banking,2024-05-26
+379,Heather Lopez,Tablet,Electronics,East,10,687,57.0,8078,Card,2024-02-07
+380,Amber Lyons,Desk,Furniture,North,1,2776,367.49,697,Card,2024-05-08
+381,Ruth Carter,Headphones,Electronics,North,4,14056,2160.29,204,UPI,2024-01-24
+382,Christian Daniels,Desk,Furniture,West,2,2785,143.58,2654,UPI,2024-02-28
+383,Laura Ortiz,Headphones,Electronics,West,5,33163,2513.91,9401,Cash,2024-02-09
+384,Joshua Bradford,Desk,Furniture,West,2,5822,1110.68,3463,Card,2024-01-16
+385,David Thompson,Desk,Furniture,North,5,37412,7502.24,706,Card,2024-03-07
+386,Meagan Blankenship,Monitor,Electronics,South,2,33061,4420.89,4532,Card,2024-06-15
+387,Carrie Andersen,Tablet,Electronics,West,1,26941,4757.39,6159,UPI,2024-11-13
+388,Jesus Ramirez,Tablet,Electronics,East,5,16918,3773.12,1273,Cash,2024-12-24
+389,Jennifer Levine,Mouse,Electronics,West,5,39155,3955.72,5997,Cash,2024-07-30
+390,Jason Sexton,Headphones,Electronics,South,2,18831,4263.76,8677,UPI,2024-04-12
+391,Carlos Smith,Laptop,Electronics,East,1,7368,1522.27,5653,Net Banking,2024-01-05
+392,Mary Mendoza,Tablet,Electronics,North,3,2054,308.41,5940,Card,2024-01-03
+393,Steven Saunders,Printer,Office Supplies,North,3,26164,6235.09,3173,Net Banking,2024-02-01
+394,Melinda Watkins,Chair,Furniture,East,9,34405,4390.3,5669,Cash,2024-07-16
+395,Troy Dickerson,Keyboard,Electronics,North,8,4991,893.75,8585,Net Banking,2024-03-18
+396,Jessica Burton,Chair,Furniture,South,9,37618,6925.71,918,Cash,2024-05-31
+397,Karen Hines,Mouse,Electronics,South,3,29747,6686.03,3173,Net Banking,2024-04-11
+398,Joshua Golden,Laptop,Electronics,North,2,12184,2145.35,4398,Net Banking,2024-04-28
+399,Juan Quinn,Desk,Furniture,North,10,34794,2251.48,1818,UPI,2024-12-30
+400,Joseph Obrien,Printer,Office Supplies,South,10,13933,2832.54,7592,Cash,2024-04-06
+401,Allison Merritt,Chair,Furniture,South,6,38030,4294.19,5709,Net Banking,2024-05-05
+402,Chad Ramos,Tablet,Electronics,North,3,1139,82.59,3973,UPI,2024-09-20
+403,David Pope,Monitor,Electronics,North,7,30507,1756.14,9644,Cash,2024-06-04
+404,Yolanda Sanders,Printer,Office Supplies,West,9,14960,2067.49,1164,Net Banking,2024-01-05
+405,Andrea Young,Monitor,Electronics,West,2,31662,7299.46,4579,Card,2024-11-30
+406,Seth Salazar,Laptop,Electronics,North,7,3012,250.11,3319,UPI,2024-06-13
+407,Michael Ellis,Chair,Furniture,South,6,5216,412.93,4703,UPI,2024-06-04
+408,Bethany Young,Chair,Furniture,East,9,18715,1643.29,8646,Card,2024-10-04
+409,Lauren Owens,Headphones,Electronics,East,5,28476,4808.25,5350,Card,2024-10-24
+410,Kylie Brown,Headphones,Electronics,North,1,48453,7896.55,3309,Net Banking,2024-11-02
+411,Leslie Klein DVM,Mouse,Electronics,East,5,34735,5962.48,5947,UPI,2024-04-01
+412,Benjamin Padilla,Tablet,Electronics,West,8,23001,1895.16,6441,Card,2024-08-01
+413,Gabriella Alexander,Desk,Furniture,West,7,35418,7168.85,1988,UPI,2024-09-17
+414,Christopher Medina,Mobile,Electronics,South,9,4625,994.72,1128,Cash,2024-09-27
+415,Allison Miles,Desk,Furniture,East,2,44119,11008.18,4744,Card,2024-02-13
+416,William Miller,Monitor,Electronics,East,10,32649,8001.89,9132,Net Banking,2024-02-20
+417,Sandra Morgan,Laptop,Electronics,South,2,21685,5256.85,2726,UPI,2024-05-17
+418,Wendy Arnold,Printer,Office Supplies,West,8,22464,1665.66,3576,Cash,2024-04-24
+419,Thomas Scott,Tablet,Electronics,North,8,23061,5534.46,5885,Card,2024-03-27
+420,Timothy Davis,Printer,Office Supplies,South,9,5194,414.05,2186,UPI,2024-06-30
+421,Jennifer Thompson,Mouse,Electronics,East,5,6912,1048.51,3458,Card,2024-10-12
+422,Regina Walters,Laptop,Electronics,West,9,13747,2619.61,3538,Cash,2024-06-05
+423,Kathryn Howell,Tablet,Electronics,North,5,33561,3040.15,4073,Card,2024-11-01
+424,Patricia Walters,Chair,Furniture,South,1,8546,1019.66,7871,Net Banking,2024-12-24
+425,Kaitlyn Brown,Laptop,Electronics,North,7,7918,638.57,1934,Card,2024-06-05
+426,Mia Preston,Mobile,Electronics,West,4,12971,1623.51,8282,Net Banking,2024-08-17
+427,Sandra Lawrence,Tablet,Electronics,East,7,44494,4009.74,1861,Cash,2024-11-10
+428,Mary Campos,Chair,Furniture,West,3,38018,4582.35,2886,Cash,2024-09-17
+429,Mary York,Monitor,Electronics,South,5,14172,762.27,504,Net Banking,2024-08-29
+430,Nicole Maldonado,Headphones,Electronics,South,3,6452,974.31,1197,Cash,2024-05-12
+431,Matthew Jordan,Chair,Furniture,West,4,39854,8231.97,1496,Card,2024-07-08
+432,Sally Johnson,Desk,Furniture,East,4,28065,4419.38,3008,UPI,2024-01-12
+433,Leslie Morris,Monitor,Electronics,South,7,48362,9875.85,4308,Net Banking,2024-10-22
+434,James Gonzalez,Desk,Furniture,East,7,31783,3001.44,463,Net Banking,2024-08-18
+435,Hector Wilson,Laptop,Electronics,East,9,39051,5910.39,3754,Card,2024-04-25
+436,Curtis Atkinson,Chair,Furniture,West,4,49996,4935.0,4873,Net Banking,2024-09-17
+437,Travis Weber,Keyboard,Electronics,West,9,29483,4163.01,4742,Cash,2024-07-03
+438,Caitlin Santana,Monitor,Electronics,North,3,3686,232.99,453,Cash,2024-07-19
+439,Dr. Matthew Dunn,Tablet,Electronics,East,8,16506,2921.25,3731,UPI,2024-03-15
+440,Helen Rosales,Monitor,Electronics,South,3,8094,1681.0,9956,Card,2024-12-10
+441,Devin Robinson,Keyboard,Electronics,East,5,18582,2243.9,8042,Card,2024-08-01
+442,Misty Blackburn,Chair,Furniture,South,9,26264,6517.63,5287,UPI,2024-04-03
+443,Stephanie Villarreal,Monitor,Electronics,North,1,32704,5264.06,2469,Cash,2024-09-28
+444,Jay Olson,Headphones,Electronics,North,5,39336,9291.01,8706,Cash,2024-01-26
+445,Anthony Perez,Mouse,Electronics,East,9,12744,1084.6,5378,Net Banking,2024-02-27
+446,Lisa Cruz,Headphones,Electronics,North,4,14261,1291.15,2667,UPI,2024-08-09
+447,Fernando Jones,Headphones,Electronics,North,10,32451,4675.86,6272,Card,2024-10-20
+448,Jillian Monroe,Mouse,Electronics,East,9,3980,697.78,5876,Net Banking,2024-05-27
+449,Jason Williams,Laptop,Electronics,West,9,24808,2708.23,4095,Cash,2024-02-08
+450,Kathy Hernandez,Printer,Office Supplies,West,6,14810,1730.29,9662,UPI,2024-06-27
+451,Elizabeth Henderson,Keyboard,Electronics,North,8,31433,7389.3,9059,UPI,2024-09-08
+452,Robert Nguyen,Chair,Furniture,East,8,17876,3983.86,4227,Net Banking,2024-11-19
+453,Ariana Miller,Monitor,Electronics,South,2,7233,415.52,5967,Cash,2024-12-07
+454,Jennifer Fitzgerald DDS,Laptop,Electronics,West,4,39463,8469.97,9396,Card,2024-12-03
+455,Jay Spencer,Printer,Office Supplies,North,4,44962,6008.88,4137,Card,2024-08-21
+456,Wesley Butler,Printer,Office Supplies,East,8,32245,5210.11,3256,Net Banking,2024-01-19
+457,Tina Elliott,Laptop,Electronics,North,9,36146,5098.9,7224,UPI,2024-08-04
+458,Christopher Kelly,Laptop,Electronics,South,2,21165,2618.95,5607,Card,2024-09-07
+459,Dr. David Burgess,Chair,Furniture,West,4,18565,2413.58,9138,UPI,2024-06-22
+460,Matthew Holmes,Chair,Furniture,West,5,35762,6413.7,2245,Net Banking,2024-02-21
+461,Molly Cook,Desk,Furniture,North,1,9105,654.35,5707,Net Banking,2024-02-17
+462,Shannon Sweeney,Mobile,Electronics,North,3,6031,306.7,3587,Card,2024-12-27
+463,Gregory Rocha,Headphones,Electronics,North,5,29589,6933.19,1826,Net Banking,2024-05-12
+464,Ryan Gomez,Desk,Furniture,East,2,41922,5092.89,3694,Cash,2024-05-09
+465,Arthur Daugherty,Keyboard,Electronics,North,9,15946,2074.96,6363,Net Banking,2024-02-03
+466,Christopher Morales,Desk,Furniture,West,6,44975,3391.78,9553,UPI,2024-07-27
+467,Seth Miller,Keyboard,Electronics,West,1,46369,5802.13,1201,Net Banking,2024-02-12
+468,Kim Davis,Laptop,Electronics,West,4,8345,1043.82,1278,Cash,2024-05-13
+469,Joshua James,Desk,Furniture,West,9,28704,4508.47,7777,Card,2024-09-26
+470,Aaron Ortiz,Tablet,Electronics,North,1,48780,7220.12,4358,Card,2024-06-08
+471,Bryan Montoya,Desk,Furniture,North,8,12343,1420.93,9863,Card,2024-06-15
+472,Bonnie Morgan,Monitor,Electronics,East,8,24665,1834.21,1218,Net Banking,2024-02-06
+473,Bradley Johnson,Mobile,Electronics,North,8,5756,938.27,9843,Cash,2024-09-30
+474,Kim Norton,Keyboard,Electronics,West,10,26703,3509.24,6548,Cash,2024-02-25
+475,Matthew Drake,Tablet,Electronics,North,8,20692,4896.24,7814,Card,2024-11-05
+476,Elizabeth Austin PhD,Printer,Office Supplies,East,8,40856,9579.76,4369,Cash,2024-09-06
+477,Tim Wright,Headphones,Electronics,West,1,43021,3777.03,2714,Cash,2024-09-27
+478,Douglas Green,Tablet,Electronics,West,1,49865,9176.43,5489,Net Banking,2024-08-29
+479,Kathy Reeves,Keyboard,Electronics,East,6,9040,1123.07,224,Card,2024-12-04
+480,Sarah Williams,Mouse,Electronics,South,3,33479,2651.31,6482,UPI,2024-06-03
+481,Nicole Morris,Desk,Furniture,West,3,30315,3580.61,181,Card,2024-08-11
+482,Kelly Herrera,Tablet,Electronics,South,7,12829,2431.72,5946,Net Banking,2024-06-06
+483,Mark Jackson,Headphones,Electronics,West,5,12409,1711.62,8823,Card,2024-01-21
+484,Kevin Gonzalez,Monitor,Electronics,South,9,38506,8430.8,5980,Cash,2024-11-22
+485,Karen Mendez,Monitor,Electronics,West,6,12265,1673.48,9681,Cash,2024-01-03
+486,Jaime Brown,Monitor,Electronics,South,6,40889,4137.6,2602,Cash,2024-12-04
+487,Ryan Bennett,Printer,Office Supplies,West,2,26574,2273.05,8260,Net Banking,2024-07-02
+488,Carlos Mccullough,Tablet,Electronics,North,10,11201,999.91,4637,Net Banking,2024-08-13
+489,William Carlson,Headphones,Electronics,East,5,16843,4101.82,6776,Net Banking,2024-04-07
+490,Mark Ward,Keyboard,Electronics,South,6,32304,7987.82,4317,Card,2024-02-04
+491,Mitchell Wilson,Printer,Office Supplies,South,5,45896,10040.61,7008,Card,2024-07-30
+492,Robert Barajas,Headphones,Electronics,North,10,42877,3510.17,7892,Card,2024-04-12
+493,Angela Hall,Tablet,Electronics,South,1,30084,4068.31,9550,Cash,2024-12-27
+494,Duane Richardson,Monitor,Electronics,South,9,34788,3052.51,2523,Card,2024-08-17
+495,Keith Holland,Keyboard,Electronics,East,2,12095,1222.53,6875,UPI,2024-02-08
+496,Laura Mcknight,Mouse,Electronics,East,1,34621,4424.63,9214,Cash,2024-06-10
+497,Robert Davis,Chair,Furniture,South,7,23298,3136.82,2193,UPI,2024-07-28
+498,Sandra Rice,Headphones,Electronics,North,4,12794,1453.41,4209,Cash,2024-08-10
+499,Thomas Clarke,Mouse,Electronics,West,5,8836,1152.99,1879,Card,2024-07-24
+500,Henry White,Printer,Office Supplies,West,3,44949,5417.42,3436,Card,2024-02-17
